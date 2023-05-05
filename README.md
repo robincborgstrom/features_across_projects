@@ -29,3 +29,4 @@
 - Salary payment bankAPI environment dependant
 - Check and add https:// in URL if it's missing
 - Asserts in your development phase
+- Using own component for Snackbar and Dialog
