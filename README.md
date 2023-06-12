@@ -29,3 +29,6 @@
 - Salary payment bankAPI environment dependant
 - Check and add https:// in URL if it's missing
 - Asserts in your development phase
+- Turbopack 
+- Constants: tax percentage & social fees
+- package-lock synchronized with package -> enable npm ci
