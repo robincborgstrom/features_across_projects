@@ -32,3 +32,4 @@
 - Turbopack 
 - Constants: tax percentage & social fees
 - package-lock synchronized with package -> enable npm ci
+- Using own component for Snackbar and Dialog
