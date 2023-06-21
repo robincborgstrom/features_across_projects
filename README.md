@@ -3,7 +3,7 @@
 - config file: build/start -> dev, test and prod
 - npm analyze
 - Selectors folder
-- Assets folder
+- Assets folder<br>
   **VAT percentages and Social fees**<br>
   **ContactDetails**<br>
 - Image size when bundled
@@ -31,7 +31,6 @@
 - Asserts in your development phase
 - Using own component for Snackbar and Dialog
 - Turbopack 
-- Constants: tax percentage & social fees
 - package-lock synchronized with package -> enable npm ci
 - Using own component for Snackbar and Dialog
 - Moving business logic to API
