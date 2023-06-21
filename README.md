@@ -29,6 +29,7 @@
 - Salary payment bankAPI environment dependant
 - Check and add https:// in URL if it's missing
 - Asserts in your development phase
+- Using own component for Snackbar and Dialog
 - Turbopack 
 - Constants: tax percentage & social fees
 - package-lock synchronized with package -> enable npm ci
