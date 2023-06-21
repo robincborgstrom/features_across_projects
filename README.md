@@ -36,3 +36,11 @@
 - Moving business logic to API
 - API for updating build date
 - Stored procedures for production database requests
+- Framework for coding principles (variables, syntax, style)
+- Nuget packages (html templates, email functions, ...)
+- Invoice saveAndSend. After it's saved, the user gets OK response. Email runs in the background.
+- IdentityServer -> Azure Active Directory
+- Azure repos
+- DevOps CI/CD
+- Salt password
+
