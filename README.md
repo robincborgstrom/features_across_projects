@@ -33,3 +33,6 @@
 - Constants: tax percentage & social fees
 - package-lock synchronized with package -> enable npm ci
 - Using own component for Snackbar and Dialog
+- Moving business logic to API
+- API for updating build date
+- Stored procedures for production database requests
